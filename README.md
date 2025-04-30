@@ -42,3 +42,11 @@ I'm a passionate developer with a love for building clean, efficient, and impact
 ![](https://github-readme-stats.vercel.app/api?username=pranavrajk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pranavrajk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrajk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amishck&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pranavrajk}/count.svg" /></p> 
+<br></div>
