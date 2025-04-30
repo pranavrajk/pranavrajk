@@ -39,7 +39,7 @@ I'm a passionate developer with a love for building clean, efficient, and impact
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranavrajk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">![](https://github-readme-stats.vercel.app/api?username=pranavrajk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pranavrajk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrajk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
