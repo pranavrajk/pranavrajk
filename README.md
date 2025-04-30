@@ -3,6 +3,14 @@
 👋 Hi, I'm [Your Name]
 I'm a passionate developer with a love for building clean, efficient, and impactful software. I enjoy working on open-source projects, learning new technologies, and collaborating with others in the tech community.
 
+<div align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://pub-70bba02430384bcfb1ee3bbfbf3bd6d6.r2.dev/hello-world-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://pub-70bba02430384bcfb1ee3bbfbf3bd6d6.r2.dev/hello-world-light.svg">
+      <img alt="Hello World" src="https://pub-70bba02430384bcfb1ee3bbfbf3bd6d6.r2.dev/hello-world-light.svg">
+  </picture>
+</div>
+
 ## Find out more about me & feel free to connect with me here:
 
 <p align="center">
